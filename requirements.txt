@@ -5,5 +5,3 @@ rapidfuzz
 numpy
 pandas
 xgboost
-matplotlib
-seaborn
