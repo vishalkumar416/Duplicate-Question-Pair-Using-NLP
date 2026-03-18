@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+beautifulsoup4
+rapidfuzz
+numpy
+pandas
+xgboost
+matplotlib
+seaborn
