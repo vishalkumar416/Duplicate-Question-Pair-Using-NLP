@@ -1,6 +1,8 @@
 import streamlit as st
 import helper
 import pickle
+import warnings
+warnings.filterwarnings("ignore")
 
 model = pickle.load(open('model.pkl','rb'))
 
