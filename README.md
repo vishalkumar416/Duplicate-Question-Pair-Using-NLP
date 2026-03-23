@@ -122,6 +122,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 **Vishal Kumar**
 B-Tech in Artificial Intelligence and Data Science
 
----
 
-## ⭐ If you like this project, give it a star!
